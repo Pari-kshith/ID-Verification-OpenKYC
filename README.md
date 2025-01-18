@@ -22,8 +22,7 @@
 </p>
 
 ## 🎥 See IDKit in Action
-
-[![IDKit Demo](https://img.youtube.com/vi/4po8rVoGVFo/maxresdefault.jpg)](https://www.youtube.com/watch?v=4po8rVoGVFo)
+[![IDKit Demo](https://github.com/user-attachments/assets/56f94f2c-fd1f-46f0-becc-346e505d8154)](https://www.youtube.com/watch?v=4po8rVoGVFo)
 
 > 🎬 [Watch our 1-minute demo showcasing IDKit's powerful features](https://www.youtube.com/watch?v=4po8rVoGVFo)
 
