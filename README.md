@@ -34,6 +34,7 @@ Transform your application's identity verification process with our enterprise-g
 - [Integration Guide](https://docs.faceonlive.com/idkit-self-host-kyc-platform)
 - [API Documentation](https://docs.faceonlive.com/sdk-integrated-server)
 - [SDK-Integrated Server](https://faceonlive.com/projects/id-verification-sdk-suite)
+- [HuggingFace Demos for ID Document Recognition, ID Liveness Check, Face Liveness Detection, Face Matching](https://www.huggingface.co/FaceOnLive)
 - ⭐️ Don’t forget to star this repo if you find it useful!
 
 ## ⚙️ Free Access to Community SDK-Integrated Server
