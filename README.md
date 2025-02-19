@@ -58,7 +58,7 @@ const ID_LIVENESS_ACCESS_TOKEN = "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"
 ```
 > Note: These are free credentials for testing purposes only.
 
-## 🔥 **Get a Server with Full ID Verification SDKs Installed for Just $900!** 🚀  
+## 🔥 **Get a Server with Full ID Verification SDKs Installed for Just $1200!** 🚀  
 #### ✅ Powerful Verification Tools
 #### ✅ Ready-to-Use Setup
 #### ✅ One-Time Affordable Price
