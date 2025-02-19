@@ -56,8 +56,14 @@ const ID_LIVENESS_SERVER_URL = "https://faceonlive-sdk-il-2v-community.hf.space"
 const ID_LIVENESS_ACCESS_TOKEN = "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"
 
 ```
+> Note: These are free credentials for testing purposes only.
 
-> Note: These are free credentials for testing purposes only. [Check out our offerings](https://faceonlive.com/projects/id-verification-sdk-suite) to get dedicated and on-premises server deployment for production use.
+## 🔥 **Get a Server with Full ID Verification SDKs Installed for Just $900!** 🚀  
+#### ✅ Powerful Verification Tools
+#### ✅ Ready-to-Use Setup
+#### ✅ One-Time Affordable Price
+
+[**Don't miss out—Secure Your Server Today!** 🔐](https://faceonlive.com/projects/id-verification-sdk-suite)
 
 ## 🚀 What Sets Us Apart
 
