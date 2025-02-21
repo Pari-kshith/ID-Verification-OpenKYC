@@ -44,16 +44,12 @@ Transform your application's identity verification process with our enterprise-g
 // Test Credentials
 
 // Face Recognition & Livenesss Check, ID Document Recognition Server
-
 const SERVER_URL = "https://faceonlive-sdk-drl-2v-community.hf.space"
 
-const ACCESS_TOKEN = "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"
-
 // ID Document Liveness Check Server
-
 const ID_LIVENESS_SERVER_URL = "https://faceonlive-sdk-il-2v-community.hf.space"
 
-const ID_LIVENESS_ACCESS_TOKEN = "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"
+const ACCESS_TOKEN = "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"
 
 ```
 > Note: These are free credentials for testing purposes only.
