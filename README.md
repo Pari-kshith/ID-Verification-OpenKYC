@@ -37,27 +37,11 @@ Transform your application's identity verification process with our enterprise-g
 - [HuggingFace Demos for ID Document Recognition, ID Liveness Check, Face Liveness Detection, Face Matching](https://www.huggingface.co/FaceOnLive)
 - ⭐️ Don’t forget to star this repo if you find it useful!
 
-## ⚙️ Free Access to Community SDK-Integrated Server
-
-```javascript
-
-// Test Credentials
-
-// Face Recognition & Livenesss Check, ID Document Recognition Server
-const SERVER_URL = "https://faceonlive-sdk-drl-2v-community.hf.space"
-
-// ID Document Liveness Check Server
-const ID_LIVENESS_SERVER_URL = "https://faceonlive-sdk-il-2v-community.hf.space"
-
-const ACCESS_TOKEN = "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"
-
-```
-> Note: These are free credentials for testing purposes only.
-
 ## 🔥 **Get a Server with Full ID Verification SDKs Installed for Just $1200!** 🚀  
 #### ✅ Powerful Verification Tools
 #### ✅ Ready-to-Use Setup
 #### ✅ One-Time Affordable Price
+#### ✅ Unlimited Life-Time Transactions
 
 [**Don't miss out—Secure Your Server Today!** 🔐](https://faceonlive.com/projects/id-verification-sdk-suite)
 
