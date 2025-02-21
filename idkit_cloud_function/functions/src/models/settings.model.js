@@ -23,7 +23,7 @@ class Settings {
         settings.webhook_url = data.webhook_url || "";
         settings.webhook_secret = data.webhook_secret || "";
         settings.webhook_enabled = data.webhook_enabled || false;
-        settings.allowedOrigins = data.allowed_origins || ['https://admin.idv.services'];
+        settings.allowedOrigins = data.allowed_origins || ['https://kycadmin.faceonlive.com'];
         return settings;
     }
 }
