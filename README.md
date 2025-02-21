@@ -7,8 +7,6 @@
     ·
     <a href="https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter">Face Attendance</a>  
     ·
-    <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA">Slack</a>
-    ·
     <a href="mailto:contact@faceonlive.com">Contact</a>
 </div>
 
