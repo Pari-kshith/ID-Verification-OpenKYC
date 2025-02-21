@@ -27,7 +27,7 @@ let settings = {
   webhook_url: "",
   webhook_secret: "",
   webhook_enabled: false,
-  allowedOrigins: ['https://admin.idv.services'],
+  allowedOrigins: ['https://kycadmin.faceonlive.com'],
 };
 
 // Set up settings listener immediately
@@ -45,7 +45,7 @@ settingsRef.onSnapshot((snapshot) => {
       webhook_url: data.webhook_url || "",
       webhook_secret: data.webhook_secret || "",
       webhook_enabled: data.webhook_enabled || false,
-      allowedOrigins: data.allowed_origins || ['https://admin.idv.services']
+      allowedOrigins: data.allowed_origins || ['https://kycadmin.faceonlive.com']
     };
 
     // Reset service instances when settings change
